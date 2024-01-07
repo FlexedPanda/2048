@@ -1,1 +1,1 @@
-# 2048 using OpenGL
+# 2048
